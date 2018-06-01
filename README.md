@@ -5,7 +5,7 @@
 
 Akomando is a library to handle AkomaNtoso documents.
 
-Plese refer to the [official site](https://www.akomando.bitnomos.eu) for detailed documentation and a full list of available APIs.
+Please refer to the [official site](https://www.akomando.bitnomos.eu) for detailed documentation and a full list of available APIs.
 
 Please refer to the [official repository](https://gitlab.com/bitnomos/akomando/) for the source code. 
 
